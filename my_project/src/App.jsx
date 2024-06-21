@@ -7,6 +7,7 @@ import Cart from "./Cart.jsx";
 import Head from "./Head.jsx";
 // import Electronices from "./Electronices.jsx";
 // import Bags from "./Bags.jsx";
+//test
 
 
 function App() {
