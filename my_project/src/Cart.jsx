@@ -28,7 +28,7 @@ function Cart() {
         : item
       : item
   )
-  setCartData(updataedCart);
+  setCartData(updataedCart)
   }
 
   const DisplayCartData = () => {
